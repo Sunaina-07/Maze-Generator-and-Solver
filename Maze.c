@@ -4,8 +4,8 @@
 
 #define wall '#'
 //Defining maze size. It must be odd numbers so that boundary of maze is only walls
-#define rows 33
-#define cols 33
+#define rows 21
+#define cols 21
 
 char Maze[rows][cols]; //Declaring a 2D array which will be the maze
 
