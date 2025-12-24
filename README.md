@@ -1,6 +1,6 @@
 # Maze Generator and Solver in C
 
-This is a C program that generates a random maze and solves it automatically. I created this for my first-semester Computer Science Engineering project.
+This is a C program that generates a random maze and solves it automatically.  We created this for our first-semester project.
 
 ## How it Works
 1.  Generation: uses the Binary Tree Algorithm. It goes through the grid and randomly knocks down walls to ensure a path exists.
